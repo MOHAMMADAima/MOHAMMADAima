@@ -1,12 +1,12 @@
 
-<h1 align="center">Bonjour 👋, I am Aima</h1>
-<h3 align="center">An introverted NLP engineer madame from France</h3>
+<h1 align="center">Hello there 👋</h1>
+<h3 align="center">I am Aïma</h3>
 
 - 🔭 I’m currently working on a **keywords suggestion app.**
 
 - 👯 I’m looking to collaborate on **NLP/computer visions projects.**
 
-- 📫 How to reach me **aima.mohammad@pasteur.fr**
+- 📫 How to reach me **aima.mohammad.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
