@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **aima.mohammad.pro@gmail.com**
   
-- My life modo is **Qui peut le plus peut le moins ! **
+- My life modo is **Qui peut le plus peut le moins !**
 
 <h3 align="left">Connect with me:</h3>
 
