@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello there 👋</h1>
+<h1 align="center">Dear you</h1>
 <h3 align="center">I am Aïma</h3>
 
 - 🔭 I’m currently working on a **Rabies treatment monitoring app.**
@@ -7,6 +7,8 @@
 - 👯 I’m looking to collaborate on **NLP/computer visions projects.**
 
 - 📫 How to reach me **aima.mohammad.pro@gmail.com**
+  
+- My life modo is **Qui peut le plus peut le moins ! **
 
 <h3 align="left">Connect with me:</h3>
 
