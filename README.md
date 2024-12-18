@@ -1,8 +1,8 @@
 
-<h1 align="center">Dear you</h1>
+<h1 align="center">Hello</h1>
 <h3 align="center">I am Aïma</h3>
 
-- 🔭 I’m currently working on a **threejs website.**
+- 🔭 I’m currently working on a **e-business website.**
 
 - 👯 I’m looking to collaborate on **NLP/computer visions projects.**
 
