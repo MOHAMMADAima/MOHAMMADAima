@@ -8,7 +8,7 @@
   
 - My life modo is **Qui peut le plus peut le moins**
 
-Outside of work, my passion for old Indian songs is as substantial as my love for baking (any echo to my East Asian/French background is purely coincidental...)
+Outside of work, my passion for old Indian songs is as substantial as my love for baking (any echo to my West Asian/French background is purely coincidental...)
 
 <h3 align="left">Connect with me:</h3>
 
