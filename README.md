@@ -2,7 +2,7 @@
 <h1 align="center">Hello</h1>
 <h3 align="center">I am Aïma</h3>
 
-- 🔭 I’m currently working on a **e-business website.**
+- 🔭 I’m currently organizing a scientific convening in **Hô-Chi-Minh-City, Vietnam.**
 
 - 📫 How to reach me **aima.mohammad.pro@gmail.com**
   
