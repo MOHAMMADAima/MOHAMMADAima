@@ -2,7 +2,7 @@
 <h1 align="center">Bonjour !</h1>
 <h3 align="center">I am Aima, pronounced A[i:]ma</h3>
 
-- 🔭 I’m currently organizing a scientific convening in **Hô-Chi-Minh-City, Vietnam.**
+- 🔭 I’m currently seeking new opportunities in data analytics in Paris.**
 
 - 📫 How to reach me **aima.mohammad.pro@gmail.com**
   
