@@ -27,6 +27,8 @@ When I'm not engineering software, you'll probably find me writing poetry, helpi
 🌍 Turning ideas into reality, improving reality with technology.
 🧠 Lifelong learner. Social activist. Relentless creator. Polyglot.
 
+<div>
+
 ```text
 I don't chase perfection.
 
@@ -38,6 +40,7 @@ Of systems.
 
 The code is simply the medium.
 ```
+</div>
 
 > *Every repository is a conversation.*
 > *Some speak in algorithms.*
