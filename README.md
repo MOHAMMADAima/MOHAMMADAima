@@ -29,7 +29,7 @@ When I'm not engineering software, you'll probably find me writing poetry, helpi
 
 <div>
 
-```text
+
 I don't chase perfection.
 
 I chase understanding.
@@ -39,8 +39,7 @@ Of ideas.
 Of systems.
 
 The code is simply the medium.
-```
-</div>
+
 
 > *Every repository is a conversation.*
 > *Some speak in algorithms.*
